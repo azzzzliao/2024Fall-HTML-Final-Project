@@ -1,5 +1,4 @@
-# 2024Fall-HTML-Final-
-Project  
+# 2024Fall-HTML-Final-Project  
 
 This project is the final project of the course *Machine Learning*, taught by Prof. Hsuan-Tien Lin at NTU in Fall 2024.  
 This study evaluates the performance of various machine learning models and techniques for predicting Major League Baseball (MLB) game outcomes, using a dataset provided by the TAs of the Machine Learning course.  
