@@ -8,4 +8,4 @@ Our goal is to identify the best-performing model at different stages of the Kag
 🔗 [HTML-2024 Fall Final Project Stage 2](https://www.kaggle.com/competitions/html2024-fall-final-project-stage-2).
 
 For details on our methodology, analysis, and results, please refer to the report below.  
-📄 [Final Report (PDF)](Final_Report.pdf)  
+📄 [Final Report (PDF)](ML_final_report.pdf)  
